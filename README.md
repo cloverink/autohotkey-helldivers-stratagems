@@ -15,3 +15,6 @@ To install and use the Helldivers2 AutoHotkey Stratagems Scripts, follow these s
 
 Note: Make sure to check the script's documentation for any additional configuration or customization options.
 
+Thank Stratagems List from [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3166543565)
+
+![image](https://github.com/cloverink/autohotkey-helldivers-stratagems/assets/26240331/a882118e-5c8b-47ee-84d6-d26da06163bb)
