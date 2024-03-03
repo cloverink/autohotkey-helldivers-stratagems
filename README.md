@@ -1,4 +1,4 @@
-# Helldivers2 - AutoHotkey Stratagems Scripts
+# Helldivers2 - AutoHotkey Stratagems Scripts ( not working at this moment )
 
 This project is a collection of AutoHotkey scripts for the game Helldivers. It provides various stratagems and shortcuts to enhance gameplay.
 
